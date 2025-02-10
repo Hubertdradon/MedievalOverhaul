@@ -124,7 +124,7 @@
 			<baseHealthScale>1.5</baseHealthScale>
 			<foodType>CarnivoreAnimalStrict, Corpse</foodType>
 			<leatherDef>Leather_Human</leatherDef>
-			<wildness>0.60</wildness>
+			<wildness>1</wildness>
 			<manhunterOnTameFailChance>1</manhunterOnTameFailChance>
 			<manhunterOnDamageChance>1</manhunterOnDamageChance>
 			<gestationPeriodDays>26</gestationPeriodDays>
